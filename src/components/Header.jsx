@@ -40,8 +40,10 @@ function Header() {
         {cars &&
           cars.map((car, index) => (
             <li>
-          <a href="#" key={index}>{car}</a>
-        </li>
+              <a href="#" key={index}>
+                {car}
+              </a>
+            </li>
           ))}
         <li>
           <a href="#">Roadster</a>
