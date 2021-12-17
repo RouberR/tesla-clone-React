@@ -39,8 +39,8 @@ function Header() {
         </CloseWrapper>
         {cars &&
           cars.map((car, index) => (
-            <li>
-              <a href="#" key={index}>
+            <li key={index}>
+              <a href="#" >
                 {car}
               </a>
             </li>
