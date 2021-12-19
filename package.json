@@ -20,7 +20,7 @@
     "react-scripts": "5.0.0",
     "styled-components": "^5.3.3"
   },
-  "homepage": "http://RouberR.github.io/tesla-clone-React/",
+  "homepage": "http://RouberR.github.io/tesla-clone-React",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
